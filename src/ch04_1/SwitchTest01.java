@@ -7,6 +7,11 @@ public class SwitchTest01 {
 		
 		int number = ((int)(Math.random()*6)+1);
 		
+		// 문자일 경우 
+		//String ch = "kor";
+		//...		
+		//case = "kor" 이런식으로 적음 된다.  
+		
 		switch (number) {
 		case 1:
 			 System.out.println("일이 나왔습니다.");
