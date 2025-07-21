@@ -44,13 +44,13 @@ public class forTest_001 {
 		} 
 		System.out.println(sum);
 		
-		//
+		
 		
 		System.out.println("~~~~~~~~~~~~~~~~~~~~");
 		
 		//0~100사이 짝수만 출력
 		  
-//		for(int i=1;i<=100;i=i+1){ 
+//		for(int i=1; i<=100; i=i+1) { 
 //			if (i%2==0) {
 //				System.out.println("i값 : " + i);
 //			}

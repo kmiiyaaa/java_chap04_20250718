@@ -23,8 +23,8 @@ public class WhileTest00 {
 	    }
 		
 		System.out.println("축하합니다!!");
-		// 횟수 정해져 있을땐 for문
-	//  횟수가 정해져있지 않았을땐 while문 
+	// 횟수 정해져 있을땐 for문
+	// 횟수가 정해져있지 않았을땐 while문 
 		
 		
 		
